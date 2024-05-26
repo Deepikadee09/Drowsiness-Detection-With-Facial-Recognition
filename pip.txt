@@ -1,0 +1,9 @@
+pip install dlib
+
+pip install pygame
+
+pip install imutils
+
+pip install opencv-python
+
+pip install scipy
